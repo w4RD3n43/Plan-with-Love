@@ -1,0 +1,21 @@
+.tours{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.style-0 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+.style-1 {
+  border: 6.4px dashed rgb(1, 17, 160);
+  border-radius: 20px;
+  font-size: 3rem;
+  margin: 6vh;
+  padding: 1vh 5vw;
+  box-sizing: border-box;
+}
